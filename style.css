@@ -1,0 +1,28 @@
+#kolom{
+    overflow: hidden;
+    width: 784px;
+    padding: 0%;
+    height: auto;
+    white-space: nowrap;
+    text-overflow: clip;
+}
+.kolom1{
+    width: 200px;
+    float: left;
+    text-overflow: clip;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.kolom1 a{
+    line-height: 30px;
+}
+.kolom2{
+    width: 584px;
+    float: right;
+    text-overflow: clip;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.kolom2 form{
+    line-height: 30px;
+}
